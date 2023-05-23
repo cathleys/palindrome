@@ -26,7 +26,7 @@ function checkPalindrome() {
 //takes an string to check if it is a palindrome.
 //returns true or false.
 function isPalindrome(str) {
-  testStr = str.replace(/^A-Z0-9/gi, "");
+  testStr = str.replace(/[^A-Z0-9]/gi, "");
   testStr = testStr.toLowerCase();
 
   let reverseStr = "";
