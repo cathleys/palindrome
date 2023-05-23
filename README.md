@@ -1,0 +1,3 @@
+- Visit the working site: [palindrome](https://palindrome.netlify.app/)
+- https://palindrome.netlify.app/
+- Solving one of the most common coding challenges
