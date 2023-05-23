@@ -1,3 +1,3 @@
-- Visit the working site: [palindrome](palindrome-challenge.netlify.app)
+- Visit the working site: [palindrome](https://palindrome-challenge.netlify.app/)
 - palindrome-challenge.netlify.app
 - Solving one of the most common coding challenges
